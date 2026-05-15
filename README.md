@@ -45,7 +45,7 @@ app/src/main/
 Clone the repository:
 
 Bash
-git clone [https://github.com/AlphaDoc1/PrathamChikitse.git](https://github.com/AlphaDoc1/PrathamChikitse.git)
+git clone https://github.com/Krishnaumarani1066/healthNAI
 Open in Android Studio: Ensure you are using Koala Feature Drop or newer.
 
 Run: Verify Gradle JDK is set to Java 17.
