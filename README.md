@@ -40,3 +40,12 @@ app/src/main/
 │   ├── ui/             // M3 Screens & ViewModels
 │   └── util/           // TTS & Locale Management
 └── res/                // values-kn, values-hi, values-gu...
+
+05 — Setup & Installation
+Clone the repository:
+
+Bash
+git clone [https://github.com/AlphaDoc1/PrathamChikitse.git](https://github.com/AlphaDoc1/PrathamChikitse.git)
+Open in Android Studio: Ensure you are using Koala Feature Drop or newer.
+
+Run: Verify Gradle JDK is set to Java 17.
